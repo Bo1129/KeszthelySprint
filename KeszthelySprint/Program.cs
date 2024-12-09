@@ -34,6 +34,10 @@
             }
             Console.WriteLine($"4.feladat: Átlag életkor: {ossz_eletkor / versenyzok.Count} év");
 
+            //5.feladat
+            Console.Write($"5.feladat: Kérek egy kategóriát: ");
+            string kat = Console.ReadLine();
+
             
 
         }
